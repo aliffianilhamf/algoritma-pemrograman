@@ -18,6 +18,7 @@ void tampil(int a, int b = 1, int c = 2);
 // float hasilBagi;
 int main()
 {
+
     int a, b, hasilTambah, hasilKurang, hasilKali;
     // float hasilBagi;
 
